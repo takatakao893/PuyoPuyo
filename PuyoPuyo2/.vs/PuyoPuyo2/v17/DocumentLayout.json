@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\f1204\\source\\repos\\PuyoPuyo2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8683AB05-BDB9-424E-A939-37A4622FADD6}|PuyoPuyo2\\PuyoPuyo2.csproj|c:\\users\\f1204\\source\\repos\\puyopuyo2\\puyopuyo2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8683AB05-BDB9-424E-A939-37A4622FADD6}|PuyoPuyo2\\PuyoPuyo2.csproj|solutionrelative:puyopuyo2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8683AB05-BDB9-424E-A939-37A4622FADD6}|PuyoPuyo2\\PuyoPuyo2.csproj|C:\\Users\\f1204\\source\\repos\\PuyoPuyo2\\puyopuyo2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8683AB05-BDB9-424E-A939-37A4622FADD6}|PuyoPuyo2\\PuyoPuyo2.csproj|solutionrelative:puyopuyo2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8683AB05-BDB9-424E-A939-37A4622FADD6}|PuyoPuyo2\\PuyoPuyo2.csproj|C:\\Users\\f1204\\source\\repos\\PuyoPuyo2\\puyopuyo2\\cell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8683AB05-BDB9-424E-A939-37A4622FADD6}|PuyoPuyo2\\PuyoPuyo2.csproj|solutionrelative:puyopuyo2\\cell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8683AB05-BDB9-424E-A939-37A4622FADD6}|PuyoPuyo2\\PuyoPuyo2.csproj|C:\\Users\\f1204\\source\\repos\\PuyoPuyo2\\puyopuyo2\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8683AB05-BDB9-424E-A939-37A4622FADD6}|PuyoPuyo2\\PuyoPuyo2.csproj|solutionrelative:puyopuyo2\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8683AB05-BDB9-424E-A939-37A4622FADD6}|PuyoPuyo2\\PuyoPuyo2.csproj|c:\\users\\f1204\\source\\repos\\puyopuyo2\\puyopuyo2\\puyoequalitycomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8683AB05-BDB9-424E-A939-37A4622FADD6}|PuyoPuyo2\\PuyoPuyo2.csproj|solutionrelative:puyopuyo2\\puyoequalitycomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8683AB05-BDB9-424E-A939-37A4622FADD6}|PuyoPuyo2\\PuyoPuyo2.csproj|C:\\Users\\f1204\\source\\repos\\PuyoPuyo2\\puyopuyo2\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{8683AB05-BDB9-424E-A939-37A4622FADD6}|PuyoPuyo2\\PuyoPuyo2.csproj|solutionrelative:puyopuyo2\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8683AB05-BDB9-424E-A939-37A4622FADD6}|PuyoPuyo2\\PuyoPuyo2.csproj|C:\\Users\\f1204\\source\\repos\\PuyoPuyo2\\puyopuyo2\\myusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8683AB05-BDB9-424E-A939-37A4622FADD6}|PuyoPuyo2\\PuyoPuyo2.csproj|solutionrelative:puyopuyo2\\myusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PuyoEqualityComparer.cs",
+              "DocumentMoniker": "C:\\Users\\f1204\\source\\repos\\PuyoPuyo2\\PuyoPuyo2\\PuyoEqualityComparer.cs",
+              "RelativeDocumentMoniker": "PuyoPuyo2\\PuyoEqualityComparer.cs",
+              "ToolTip": "C:\\Users\\f1204\\source\\repos\\PuyoPuyo2\\PuyoPuyo2\\PuyoEqualityComparer.cs",
+              "RelativeToolTip": "PuyoPuyo2\\PuyoEqualityComparer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T01:01:27.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\f1204\\source\\repos\\PuyoPuyo2\\PuyoPuyo2\\Form1.cs",
+              "RelativeDocumentMoniker": "PuyoPuyo2\\Form1.cs",
+              "ToolTip": "C:\\Users\\f1204\\source\\repos\\PuyoPuyo2\\PuyoPuyo2\\Form1.cs",
+              "RelativeToolTip": "PuyoPuyo2\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T00:46:05.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Position.cs",
+              "DocumentMoniker": "C:\\Users\\f1204\\source\\repos\\PuyoPuyo2\\PuyoPuyo2\\Position.cs",
+              "RelativeDocumentMoniker": "PuyoPuyo2\\Position.cs",
+              "ToolTip": "C:\\Users\\f1204\\source\\repos\\PuyoPuyo2\\PuyoPuyo2\\Position.cs",
+              "RelativeToolTip": "PuyoPuyo2\\Position.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAYAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T02:13:36.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cell.cs",
+              "DocumentMoniker": "C:\\Users\\f1204\\source\\repos\\PuyoPuyo2\\PuyoPuyo2\\Cell.cs",
+              "RelativeDocumentMoniker": "PuyoPuyo2\\Cell.cs",
+              "ToolTip": "C:\\Users\\f1204\\source\\repos\\PuyoPuyo2\\PuyoPuyo2\\Cell.cs",
+              "RelativeToolTip": "PuyoPuyo2\\Cell.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAFAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T00:36:25.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "DocumentMoniker": "C:\\Users\\f1204\\source\\repos\\PuyoPuyo2\\PuyoPuyo2\\Form1.cs",
+              "RelativeDocumentMoniker": "PuyoPuyo2\\Form1.cs",
+              "ToolTip": "C:\\Users\\f1204\\source\\repos\\PuyoPuyo2\\PuyoPuyo2\\Form1.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "RelativeToolTip": "PuyoPuyo2\\Form1.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T00:24:16.32Z",
+              "EditorCaption": " [\u30C7\u30B6\u30A4\u30F3]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\f1204\\source\\repos\\PuyoPuyo2\\PuyoPuyo2\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "PuyoPuyo2\\Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\f1204\\source\\repos\\PuyoPuyo2\\PuyoPuyo2\\Properties\\Resources.resx",
+              "RelativeToolTip": "PuyoPuyo2\\Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-03-11T01:17:56.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MyUserControl.cs",
+              "DocumentMoniker": "C:\\Users\\f1204\\source\\repos\\PuyoPuyo2\\PuyoPuyo2\\MyUserControl.cs",
+              "RelativeDocumentMoniker": "PuyoPuyo2\\MyUserControl.cs",
+              "ToolTip": "C:\\Users\\f1204\\source\\repos\\PuyoPuyo2\\PuyoPuyo2\\MyUserControl.cs",
+              "RelativeToolTip": "PuyoPuyo2\\MyUserControl.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T00:26:35.393Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
